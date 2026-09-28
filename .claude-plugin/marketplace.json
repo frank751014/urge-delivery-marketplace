@@ -1,0 +1,15 @@
+{
+  "name": "urge-delivery-marketplace",
+  "description": "催货看板市集 - 509笔 增量合并+46291日期修复版",
+  "owner": {
+    "name": "frank751014"
+  },
+  "plugins": [
+    {
+      "name": "urge-delivery-board",
+      "description": "催货看板 - 按客户/料号/订单号查询，交期数量可见，拖入更新不丢数据，46291日期修复",
+      "source": "./plugins/urge-delivery-board",
+      "version": "1.0.0"
+    }
+  ]
+}
