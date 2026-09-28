@@ -1,17 +1,8 @@
 {
   "name": "urge-delivery-board",
   "version": "1.0.0",
-  "description": "催货看板 509笔 - 增量合并+日期修复版",
+  "description": "催货看板 - 增量合并+日期修复版",
   "author": {
     "name": "frank751014"
-  },
-  "homepage": "https://github.com/frank751014/urge-delivery-marketplace",
-  "license": "MIT",
-  "keywords": [
-    "delivery",
-    "urge",
-    "催货",
-    "看板"
-  ],
-  "skills": "./skills/urge-board/SKILL.md"
+  }
 }
